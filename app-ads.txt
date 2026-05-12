@@ -3141,4 +3141,3 @@ sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 media.net, 8CU5L226O, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
 themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
-google.com, pub-8122503273689760, DIRECT, f08c47fec0942fa0
