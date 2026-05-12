@@ -1,3 +1,4 @@
+google.com, pub-8122503273689760, DIRECT, f08c47fec0942fa0
 facebook.com, 1268888070933919, RESELLER, c3e20eee3f780d68
 ironsrc.com, 567453, Direct
 blueseasx.com, 203625, RESELLER
